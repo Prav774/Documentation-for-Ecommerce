@@ -167,24 +167,3 @@ BUILD SUCCESS
 
 ---
 
-# Next Phase
-
-**Phase 3 – DTO Layer**
-
-Files to be implemented:
-
-### Requests
-
-- CreateCategoryRequest
-- UpdateCategoryRequest
-- CreateProductRequest
-- UpdateProductRequest
-- CreateReviewRequest
-
-### Responses
-
-- CategoryResponse
-- ProductResponse
-- ReviewResponse
-
-The DTO layer will be used to transfer data between the client and the backend without exposing entity classes directly.
